@@ -5,3 +5,4 @@
 z = "Tjena"
 x = "Hej"
 print(z + " " + x)
+print("Kevin är okej")
