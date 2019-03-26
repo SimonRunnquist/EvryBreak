@@ -3,5 +3,5 @@
 # är öppen för allmänheten ifall man inte har premiumkonto
 
 z = "Tjena"
-
-print(z)
+x = "Hej"
+print(z + " " + x)
